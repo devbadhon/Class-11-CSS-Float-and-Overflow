@@ -1,0 +1,35 @@
+/*
+We will learn
+0.Document Flow
+1.Absolute
+2.fixed
+3.Relative
+4.Sticky
+*/
+.clearfix{
+    clear: both;
+}
+img{
+float: right;
+opacity: 1;
+height: 50%;
+
+}
+
+.ff-p{
+height: 150px;
+overflow: auto;
+background-color: rgb(250, 252, 175);
+
+}
+
+.ss-p{
+
+    background-color: rgb(255, 213, 213);
+    
+}
+.th-p{
+
+    background-color: rgb(184, 247, 231);
+    clear: both;
+}
